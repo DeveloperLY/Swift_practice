@@ -2,8 +2,18 @@
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='01_currying'/>
-        <page name='02_protocol_mutating'/>
+        <page name='02_protocol-mutating'/>
         <page name='03_sequence'/>
         <page name='04_Tuple'/>
+        <page name='05_autoclosure'/>
+        <page name='06_escaping'/>
+        <page name='07_optional-chaining'/>
+        <page name='08_operator'/>
+        <page name='09_func-params'/>
+        <page name='10_literal'/>
+        <page name='11_subscript'/>
+        <page name='12_func_nesting'/>
+        <page name='13_namespace'/>
+        <page name='14_typealias'/>
     </pages>
 </playground>

@@ -37,6 +37,8 @@ func greaterThanDemo() {
     _ = greaterThan10(18) // => true
 }
 
+greaterThanDemo()
+
 // 借助柯里化，安全的改造和利用 target-action
 protocol TargetAction {
     func performAction()
@@ -84,6 +86,6 @@ class MyViewController {
     }
     
     func onButtonTap() {
-            print("Button was tapped")
-        }
+        print("Button was tapped")
+    }
 }
