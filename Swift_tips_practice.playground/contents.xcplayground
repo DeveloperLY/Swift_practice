@@ -12,8 +12,24 @@
         <page name='09_func-params'/>
         <page name='10_literal'/>
         <page name='11_subscript'/>
-        <page name='12_func_nesting'/>
+        <page name='12_func-nesting'/>
         <page name='13_namespace'/>
         <page name='14_typealias'/>
+        <page name='15_associatedtype'/>
+        <page name='16_variable-params-func'/>
+        <page name='17_init'/>
+        <page name='18_init-keyword'/>
+        <page name='19_init-nil'/>
+        <page name='20_static-class'/>
+        <page name='21_multi-collection'/>
+        <page name='22_default-param'/>
+        <page name='23_regex'/>
+        <page name='24_pattern-match'/>
+        <page name='25_...-..&lt;'/>
+        <page name='26_self-anyclass'/>
+        <page name='27_protocol-class-func-self'/>
+        <page name='28_dynamicType-multiFunc'/>
+        <page name='29_property-observer'/>
+        <page name='30_final'/>
     </pages>
 </playground>
