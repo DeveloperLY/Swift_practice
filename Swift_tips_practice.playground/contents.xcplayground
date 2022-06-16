@@ -31,5 +31,13 @@
         <page name='28_dynamicType-multiFunc'/>
         <page name='29_property-observer'/>
         <page name='30_final'/>
+        <page name='31_lazy'/>
+        <page name='32_reflection-mirror'/>
+        <page name='33_implicitly-unwrapped-optional'/>
+        <page name='34_multiple-optional'/>
+        <page name='35_optional-map'/>
+        <page name='36_protocol-extension'/>
+        <page name='37_where'/>
+        <page name='38_indirect-nested-enum'/>
     </pages>
 </playground>
