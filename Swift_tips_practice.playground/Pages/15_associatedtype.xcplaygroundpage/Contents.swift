@@ -45,3 +45,6 @@ func isDangerous<T: Animal>(animal: T) -> Bool {
         return false
     }
 }
+
+isDangerous(animal: Tiger())
+isDangerous(animal: Sheep())

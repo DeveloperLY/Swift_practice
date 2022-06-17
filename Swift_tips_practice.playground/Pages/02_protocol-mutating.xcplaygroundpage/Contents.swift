@@ -32,5 +32,11 @@ struct MyCar: Vehicle {
     }
 }
 
+var car = MyCar()
+car.color
+
+car.changeColor()
+car.color
+
 // 如果把 protocol 定义中的 mutating 去掉的话，MyCar 就怎么都过不了编译了
 // 在使用 class 来实现带有 mutating 的方法的协议时，具体实现的前面是不需要加 mutating 修饰的，因为 class 可以随意更改自己的成员变量。所以说在协议里用 mutating 修饰方法，对于 class 的实现是完全透明，可以当作不存在的。
