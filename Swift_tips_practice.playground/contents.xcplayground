@@ -39,5 +39,29 @@
         <page name='36_protocol-extension'/>
         <page name='37_where'/>
         <page name='38_indirect-nested-enum'/>
+        <page name='39_selector'/>
+        <page name='40_func-dispatch'/>
+        <page name='41_singleton'/>
+        <page name='42_conditional-compilation'/>
+        <page name='43_compilation-flags'/>
+        <page name='44_objc-dynamic'/>
+        <page name='45_objc-protocol'/>
+        <page name='46_memory-retain-cycle'/>
+        <page name='47_value-reference'/>
+        <page name='48_string-nsstring'/>
+        <page name='49_unsafe'/>
+        <page name='50_pointer-memory'/>
+        <page name='51_opague-pointer'/>
+        <page name='52_gcd-delay'/>
+        <page name='53_instance-type'/>
+        <page name='54_introspection'/>
+        <page name='55_kvo'/>
+        <page name='56_local-scope'/>
+        <page name='57_equal_hash'/>
+        <page name='58_class-cluster'/>
+        <page name='59_output-formatting'/>
+        <page name='60_options'/>
+        <page name='61_enumerate'/>
+        <page name='62_type-encode'/>
     </pages>
 </playground>
